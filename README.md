@@ -1,4 +1,4 @@
-![Hi, I'm Aswin Sahu](./Aswin Sahu Canva.gif)
+![Hi, I'm Aswin Sahu](./Aswin%20Sahu%20Canva.gif)
 ---
 
 ### 🚀 What I'm Working On
