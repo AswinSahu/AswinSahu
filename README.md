@@ -4,7 +4,7 @@
 
 ### 🚀 What I'm Working On
 - 🌩️ **Currently Exploring**: AWS and Azure Cloud.
-- ✍️ **Writing Articles**: [Check out my blogs on Hashnode](https://hashnode.com/@YourUsername).
+- ✍️ **Writing Articles**: [Check out my blogs on GitHub](aswinsahu.github.io/aswin.github.io/).
 - 💬 **Ask Me About**: DevOps, AWS Cloud, and automation tools.
 
 📧 **How to Reach Me**: your.email@example.com
