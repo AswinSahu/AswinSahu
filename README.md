@@ -23,18 +23,55 @@
 ---
 
 ### 🛠️ Tools and Technologies
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/aws.gif" alt="AWS" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/azure.gif" alt="Azure" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/whale-docker.gif" alt="Docker" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/kuber.gif" alt="Kubernetes" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/git.gif" alt="Git" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/jenkins.gif" alt="Jenkins" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/terraform.gif" alt="Terraform" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/ansible.gif" alt="Ansible" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/grafana.gif" alt="Grafana" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/prometheus.gif" alt="Prometheus" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/helm.gif" alt="Helm" height="50" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/python.gif" alt="Python" height="50" /></a>
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/aws.gif" alt="AWS" height="50" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/azure.gif" alt="Azure" height="50" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/whale-docker.gif" alt="Docker" height="50" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/kuber.gif" alt="Kubernetes" height="50" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/git.gif" alt="Git" height="50" />
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/gitlab.gif" alt="GitLab" height="50" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/jenkins.gif" alt="Jenkins" height="50" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/terraform.gif" alt="Terraform" height="50" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/ansible.gif" alt="Ansible" height="50" />
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/grafana.gif" alt="Grafana" height="50" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/prometheus.gif" alt="Prometheus" height="50" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/helm.gif" alt="Helm" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/python.gif" alt="Python" height="50" />
+  </a>
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/circleci.gif" alt="CircleCI" height="50" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/linux.gif" alt="Linux" height="50" />
+  </a>
+</p>
+
 
 
 ---
