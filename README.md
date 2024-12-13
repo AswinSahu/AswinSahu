@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+;I%E2%80%99m+Aswin+Sahu!+;A+DevOps+and+DevSecOps+Engineer!;Let's+innovate+together!)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aswin+Sahu!;+A+DevOps+and+DevSecOps+Engineer!" />
+</h1>
 
 ### 🚀 What I'm Working On
 - 🌩️ **Currently Exploring**: AWS and Azure Cloud.
