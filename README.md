@@ -1,6 +1,8 @@
 ![Hi, I'm Aswin Sahu](./Aswin%20Sahu%20Canva.gif)
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=450&height=70&lines=Hi+There!+%F0%9F%91%8B+;I%E2%80%99m+Aswin+Sahu!+;A+DevOps+and+DevSecOps+Engineer+passionate+about+Cloud%2C+Automation%2C+and+Security.;Let's+innovate+together!)](https://git.io/typing-svg)
+
 ### 🚀 What I'm Working On
 - 🌩️ **Currently Exploring**: AWS and Azure Cloud.
 - ✍️ **Writing Articles**: [Check out my blogs on Hashnode](https://hashnode.com/@YourUsername).
