@@ -12,9 +12,12 @@
 ---
 
 ### 🌐 Connect With Me:
-[![Twitter](twitter.gif.gif)]((https://x.com/Aswinsahuu))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Aswinsahuu" target="blank"><img align="center" src="https://github.com/AswinSahu/AswinSahu/main/twitter.gif" alt="Aswinsahuu" height="65" width="75" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhup-pandey-0311821b3/" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/madhup-pandey-0311821b3/" height="55" width="50" /></a>
+<a href="https://instagram.com/iits_madhup" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/insta.gif" alt="iits_madhup" height="75" width="80" /></a>
+</p>
 
 ---
 
