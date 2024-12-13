@@ -7,12 +7,12 @@
 - ✍️ **Writing Articles**: [Check out my blogs on GitHub](https://aswinsahu.github.io/aswin.github.io/).
 - 💬 **Ask Me About**: DevOps, AWS Cloud, and automation tools.
 
-📧 **How to Reach Me**: your.email@example.com
+📧 **How to Reach Me**: careers.aswin@gmail.com
 
 ---
 
 ### 🌐 Connect With Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](twitter.gif.gif)]((https://x.com/Aswinsahuu))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
