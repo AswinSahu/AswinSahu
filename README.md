@@ -23,12 +23,19 @@
 ---
 
 ### 🛠️ Tools and Technologies
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/aws.gif" alt="AWS" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/azure.gif" alt="Azure" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/whale-docker.gif" alt="Docker" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/kuber.gif" alt="Kubernetes" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/git.gif" alt="Git" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/jenkins.gif" alt="Jenkins" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/terraform.gif" alt="Terraform" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/ansible.gif" alt="Ansible" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/grafana.gif" alt="Grafana" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/prometheus.gif" alt="Prometheus" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/helm.gif" alt="Helm" height="50" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/python.gif" alt="Python" height="50" /></a>
+
 
 ---
 
