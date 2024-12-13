@@ -15,7 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Aswinsahuu" target="blank"><img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/twitter.gif" alt="Aswinsahuu" height="65" width="75" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aswin-sahu/" target="blank"><img align="center" src="https://github.com/AswinSahu/AswinSahu.git/main/linkedin.gif" alt="https://www.linkedin.com/in/aswin-sahu/" height="55" width="50" /></a>
+<a href="https://www.linkedin.com/in/aswin-sahu/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/linkedin.gif" alt="LinkedIn Profile" height="40" width="40" /></a>
 <a href="https://instagram.com/iits_madhup" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/insta.gif" alt="iits_madhup" height="75" width="80" /></a>
 </p>
 
