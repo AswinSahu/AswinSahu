@@ -1,7 +1,4 @@
-## Hi There! 👋  
-### I’m Aswin Sahu  
-**A passionate DevOps Engineer exploring the world of Cloud and Automation.**
-
+![Your description](./Aswin Sahu Canva.gif)
 ---
 
 ### 🚀 What I'm Working On
