@@ -17,7 +17,7 @@
 <a href="https://x.com/Aswinsahuu" target="blank"><img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/twitter.gif" alt="Aswinsahuu" height="65" width="75" /></a>
 <a href="https://www.linkedin.com/in/aswin-sahu/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/linkedin.gif" alt="LinkedIn Profile" height="55" width="50" /></a>
-<a href="https://instagram.com/iits_madhup" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/insta.gif" alt="iits_madhup" height="75" width="80" /></a>
+<a href="https://www.instagram.com/cloudopsarchitect/" target="blank"><img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/insta.gif" alt="cloudopsarchitect" height="75" width="80" /></a>
 </p>
 
 ---
