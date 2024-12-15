@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/aswin-sahu/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/linkedin.gif" alt="LinkedIn Profile" height="55" width="50" /></a>
 <a href="https://www.instagram.com/cloudopsarchitect/" target="blank"><img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/insta.gif" alt="Aswin - CloudOps Visionary" height="75" width="80" />
-<a href="https://hashnode.com/@aswinsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/hashnode.gif" alt="https://hashnode.com/@aswinsahu" height="70" width="70" /></a>
+<a href="https://hashnode.com/@aswinsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/blob/main/hashnode.gif" alt="https://hashnode.com/@aswinsahu" height="70" width="70" /></a>
 </a>
 </p>
 
