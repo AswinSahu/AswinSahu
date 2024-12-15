@@ -14,7 +14,8 @@
 - 💡 Building cost-effective, scalable cloud systems.
 - 🎯 Advocating for cloud-native solutions.
 - 👩‍💻 Helping teams improve deployment workflows.
-- 📧 Reach Me At: careers.aswin@gmail.com
+
+## 📧 Reach Me At: careers.aswin@gmail.com
 
 ---
 
