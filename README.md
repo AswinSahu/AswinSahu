@@ -2,17 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aswin+Sahu!;+A+DevOps+and+DevSecOps+Engineer!;+Let's+innovate+together!" />
 </h1>
 
+
 ### 🚀 What I'm Working On
-🌩️ Currently Exploring: AWS, Azure Cloud, Kubernetes, and Terraform.
-✍️ Writing Articles: [Check out my blogs on GitHub](https://aswinsahu.github.io/aswin.github.io/).
-📚 Learning: Advanced CI/CD pipelines, serverless architecture, and infrastructure as code (IaC).
-💬 Ask Me About: DevOps strategies, cloud migrations, and automation tools.
-📝 Follow My Articles: [I regularly write articles on](https://hashnode.com/@aswinsahu)
-🌟 Interests
-💡 Building cost-effective, scalable cloud systems.
-🎯 Advocating for cloud-native solutions.
-👩‍💻 Helping teams improve deployment workflows.
-📧 Reach Me At: careers.aswin@gmail.com
+- 🌩️ Currently Exploring: AWS, Azure Cloud, Kubernetes, and Terraform.
+- ✍️ Writing Articles: [Check out my blogs on GitHub](https://aswinsahu.github.io/aswin.github.io/).
+- 📚 Learning: Advanced CI/CD pipelines, serverless architecture, and infrastructure as code (IaC).
+- 💬 Ask Me About: DevOps strategies, cloud migrations, and automation tools.
+- 📝 Follow My Articles: [I regularly write articles on](https://hashnode.com/@aswinsahu)
+- 🌟 Interests
+- 💡 Building cost-effective, scalable cloud systems.
+- 🎯 Advocating for cloud-native solutions.
+- 👩‍💻 Helping teams improve deployment workflows.
+- 📧 Reach Me At: careers.aswin@gmail.com
 
 ---
 
