@@ -4,11 +4,11 @@
 
 
 ### 🚀 What I'm Working On
-- 🌩️ Currently Exploring: AWS, Azure Cloud, Kubernetes, and Terraform.
 - ✍️ Writing Articles: [Check out my blogs on GitHub](https://aswinsahu.github.io/aswin.github.io/).
-- 📚 Learning: Advanced CI/CD pipelines, serverless architecture, and infrastructure as code (IaC).
+- 📝 Follow My Articles: [Discover my latest insights on Hashnode](https://hashnode.com/@aswinsahu).
+- 📚 Currently Learning: Advanced CI/CD pipelines, serverless architecture, and Infrastructure as Code (IaC).
+- 🌩️ Exploring: AWS, Azure Cloud, Kubernetes, and Terraform.
 - 💬 Ask Me About: DevOps strategies, cloud migrations, and automation tools.
-- 📝 Follow My Articles: [I regularly write articles on](https://hashnode.com/@aswinsahu)
 
 ### 🌟 Interests
 - 💡 Building cost-effective, scalable cloud systems.
