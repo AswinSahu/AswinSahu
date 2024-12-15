@@ -24,13 +24,13 @@
         <img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/twitter.gif" alt="Aswinsahuu" height="65" width="75" />
     </a>
     <a href="https://www.linkedin.com/in/aswin-sahu/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/linkedin.gif" alt="LinkedIn Profile" height="100" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/linkedin.gif" alt="LinkedIn Profile" height="65" width="75" />
     </a>
     <a href="https://www.instagram.com/cloudopsarchitect/" target="_blank">
-        <img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/insta.gif" alt="Aswin - CloudOps Visionary" height="75" width="80" />
+        <img align="center" src="https://github.com/AswinSahu/AswinSahu/blob/main/insta.gif" alt="Aswin - CloudOps Visionary" height="65" width="75" />
     </a>
     <a href="https://hashnode.com/@aswinsahu" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/hashnode.gif" alt="aswinsahu" height="70" width="70" />
+        <img align="center" src="https://raw.githubusercontent.com/AswinSahu/AswinSahu/main/hashnode.gif" alt="aswinsahu" height="65" width="75" />
     </a>
 </p>
 
