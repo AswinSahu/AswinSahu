@@ -91,12 +91,12 @@
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswinSahu&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinSahu&theme=radical)
 
 ---
 
 ### 📚 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSahu&layout=compact&theme=radical)
 
 ---
 
