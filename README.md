@@ -100,5 +100,5 @@
 
 ---
 
-![Coding](https://link-to-your-image.com)
+<!--![Coding](https://link-to-your-image.com)-->
 
